@@ -4,7 +4,7 @@ import java.time.LocalTime;
 import java.time.Period;
 import java.util.Scanner;
 
-public class Trest 
+public class Test 
 {
 
 	public static void main(String[] args){
